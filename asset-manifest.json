@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ankurdhamapadhan/SelectOption/static/css/main.e6c13ad2.css",
+    "main.js": "/Ankurdhamapadhan/SelectOption/static/js/main.30270127.js",
+    "static/js/453.fca40042.chunk.js": "/Ankurdhamapadhan/SelectOption/static/js/453.fca40042.chunk.js",
+    "index.html": "/Ankurdhamapadhan/SelectOption/index.html",
+    "main.e6c13ad2.css.map": "/Ankurdhamapadhan/SelectOption/static/css/main.e6c13ad2.css.map",
+    "main.30270127.js.map": "/Ankurdhamapadhan/SelectOption/static/js/main.30270127.js.map",
+    "453.fca40042.chunk.js.map": "/Ankurdhamapadhan/SelectOption/static/js/453.fca40042.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.30270127.js"
+  ]
+}
